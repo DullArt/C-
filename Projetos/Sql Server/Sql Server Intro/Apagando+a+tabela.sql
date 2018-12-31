@@ -1,0 +1,3 @@
+
+DROP TABLE [dbo].[TABELA DE CLIENTES 2]
+

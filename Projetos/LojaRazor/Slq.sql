@@ -1,0 +1,1 @@
+create table dias(INTEGER id , text nome );

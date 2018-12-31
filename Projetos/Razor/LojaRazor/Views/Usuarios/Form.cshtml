@@ -1,0 +1,45 @@
+﻿@model LojaRazor.Models.Usuario 
+@using(Html.BeginForm("Cadastrar","Usuario",FormMethod.Post)) 
+{
+    <fieldset>
+        <legend>Dados Pessoais</legend>
+            @Html.LabelFor(usuario => usuario.Nome, "Nome: ")
+            @Html.TextBoxFor(m => m.Nome, null, new { @class = "form-control" })    
+            @Html.ValidationMessageFor(usuario => usuario.Nome)
+
+            @Html.LabelFor(u => u.Email, "Email:")
+            @Html.TextBoxFor(m => m.Email, null, new { @class = "form-control" })
+            @Html.ValidationSummaryFor(u => u.Email)
+
+            @Html.LabelFor(m => m.Senha, "Senha: ")
+            @Html.TextBoxFor(m => m.senha, null, new { @class = "form-control" })
+            @Html.ValidationMessageFor(u =>u.Senha)
+
+            @Html.LabelFor(m => m.DataDeNascimento)
+            @Html.TextBoxFor(m => m.DataDeNascimento, null, new { @class = "form-control" })
+            @Html.ValidationMessageFor(u => u.DataDeNascimento)
+    </fieldset>
+
+    <fieldset>
+        <legend>Dados de Entrega</legend>
+            @html.LabelFor(u => u.Endereco,"Endereco: ")
+            @Html.TextBoxFor(m => m.Endereco, null, new { @class = "form-control" })
+            @Html.ValidationMessageFor(u => u.Endereco)
+
+            @Html.LabelFor(m => m.Complemento, "Complemento: ")
+            @Html.TextBoxFor(m => m.Complemento, null, new { @class = "form-control" })
+            @ValidationMessageFor(u => u.Complemento)
+
+            @Html.LabelFor(m => m.CEP, "CEP: ")
+            @Html.TextBoxFor(m => m.CEP, null, new { @class = "form-control" })
+            @Html.ValidationMessageFor(u => u.CEP)
+
+            @Html.LabelFor(m => m.Observacoes)
+            @Html.TextAreaFor(m => m.Observacoes, null, new { @class = "form-control" })
+            @Html.ValidationMessageFor(u=>u.Observacoes)
+        </fieldset>
+        <div>
+            @Html.CheckBoxFor(m => m.RecebePromocoes)
+            Desejo receber informações sobre promoções.
+        </div>
+}

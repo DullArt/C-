@@ -1,0 +1,17 @@
+c:\Users\Alesson\Downloads\CSharpCollections\CSharpCollections\obj\Debug\netcoreapp2.1\CSharpCollections.csprojAssemblyReference.cache
+c:\Users\Alesson\Downloads\CSharpCollections\CSharpCollections\obj\Debug\netcoreapp2.1\CSharpCollections.csproj.CoreCompileInputs.cache
+c:\Users\Alesson\Downloads\CSharpCollections\CSharpCollections\obj\Debug\netcoreapp2.1\CSharpCollections.AssemblyInfoInputs.cache
+c:\Users\Alesson\Downloads\CSharpCollections\CSharpCollections\obj\Debug\netcoreapp2.1\CSharpCollections.AssemblyInfo.cs
+C:\Users\Alesson\Downloads\CSharpCollections\CSharpCollections\bin\Debug\netcoreapp2.1\CSharpCollections.deps.json
+C:\Users\Alesson\Downloads\CSharpCollections\CSharpCollections\bin\Debug\netcoreapp2.1\CSharpCollections.runtimeconfig.json
+C:\Users\Alesson\Downloads\CSharpCollections\CSharpCollections\bin\Debug\netcoreapp2.1\CSharpCollections.runtimeconfig.dev.json
+C:\Users\Alesson\Downloads\CSharpCollections\CSharpCollections\bin\Debug\netcoreapp2.1\CSharpCollections.dll
+C:\Users\Alesson\Downloads\CSharpCollections\CSharpCollections\bin\Debug\netcoreapp2.1\CSharpCollections.pdb
+C:\Users\Alesson\Downloads\CSharpCollections\CSharpCollections\obj\Debug\netcoreapp2.1\CSharpCollections.dll
+C:\Users\Alesson\Downloads\CSharpCollections\CSharpCollections\obj\Debug\netcoreapp2.1\CSharpCollections.pdb
+d:\Projetos\CSharpCollections\obj\Debug\netcoreapp2.1\CSharpCollections.csprojAssemblyReference.cache
+d:\Projetos\CSharpCollections\obj\Debug\netcoreapp2.1\CSharpCollections.csproj.CoreCompileInputs.cache
+d:\Projetos\CSharpCollections\obj\Debug\netcoreapp2.1\CSharpCollections.AssemblyInfoInputs.cache
+d:\Projetos\CSharpCollections\obj\Debug\netcoreapp2.1\CSharpCollections.AssemblyInfo.cs
+d:\Projetos\CSharpCollections\obj\Debug\netcoreapp2.1\CSharpCollections.dll
+d:\Projetos\CSharpCollections\obj\Debug\netcoreapp2.1\CSharpCollections.pdb

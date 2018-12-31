@@ -1,0 +1,11 @@
+C:\Users\Alesson\Desktop\AluraTunes\AluraTunes\bin\Debug\netcoreapp2.1\AluraTunes.deps.json
+C:\Users\Alesson\Desktop\AluraTunes\AluraTunes\bin\Debug\netcoreapp2.1\AluraTunes.runtimeconfig.json
+C:\Users\Alesson\Desktop\AluraTunes\AluraTunes\bin\Debug\netcoreapp2.1\AluraTunes.runtimeconfig.dev.json
+C:\Users\Alesson\Desktop\AluraTunes\AluraTunes\bin\Debug\netcoreapp2.1\AluraTunes.dll
+C:\Users\Alesson\Desktop\AluraTunes\AluraTunes\bin\Debug\netcoreapp2.1\AluraTunes.pdb
+C:\Users\Alesson\Desktop\AluraTunes\AluraTunes\obj\Debug\netcoreapp2.1\AluraTunes.csprojAssemblyReference.cache
+C:\Users\Alesson\Desktop\AluraTunes\AluraTunes\obj\Debug\netcoreapp2.1\AluraTunes.csproj.CoreCompileInputs.cache
+C:\Users\Alesson\Desktop\AluraTunes\AluraTunes\obj\Debug\netcoreapp2.1\AluraTunes.AssemblyInfoInputs.cache
+C:\Users\Alesson\Desktop\AluraTunes\AluraTunes\obj\Debug\netcoreapp2.1\AluraTunes.AssemblyInfo.cs
+C:\Users\Alesson\Desktop\AluraTunes\AluraTunes\obj\Debug\netcoreapp2.1\AluraTunes.dll
+C:\Users\Alesson\Desktop\AluraTunes\AluraTunes\obj\Debug\netcoreapp2.1\AluraTunes.pdb
